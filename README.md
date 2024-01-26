@@ -25,6 +25,19 @@ For any issues related to the project,
  raise an ISSUE in the respective Repository.
 </ul>
 <hr>
+<h2>🔗 Links </h2>
+<ul>
+ <li>
+  Checkout the Website https://satya32.github.io/superhero-hunter/
+ </li>
+  Checkout the Youtube https://youtu.be/D8FxNse4ybA
+ <li>
+  
+ </li>
+</ul>
+
+
+<hr>
 <h2>💻 Screenshots </h2>
 ![Screenshot (23)](https://github.com/satya32/superhero-hunter/assets/54028811/cd2dd6ac-0ce8-4824-a53a-64af62511243)
 
