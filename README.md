@@ -30,9 +30,8 @@ For any issues related to the project,
  <li>
   Checkout the Website https://satya32.github.io/superhero-hunter/
  </li>
-  Checkout the Youtube https://youtu.be/D8FxNse4ybA
  <li>
-  
+    Checkout the Youtube https://youtu.be/D8FxNse4ybA
  </li>
 </ul>
 
